@@ -1,4 +1,4 @@
-# real_time_collaborative_text_editor
+# Real-time Text Editor
 
 This is a real-time collaborative text editor built with Node.js and Socket.io.
 
